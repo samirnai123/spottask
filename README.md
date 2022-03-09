@@ -13,7 +13,7 @@ There are two APIs to make block country configurable, thought that it will be m
 1. Add Block country
 2. Delete Block country
 
-As per the exercise purpose I have not created update API for block country
+
 
 I have used below sites to test the credit cards
 `https://support.bluesnap.com/docs/test-credit-card-numbers`

@@ -2,6 +2,10 @@
 
 This application was generated in spring.io with some basic dependency
 
+# Git
+https://github.com/samirnai123/spottask.git
+
+Please take pull from master Branch
 # Development
 
 There is some set of fix data of user which will be used to 
